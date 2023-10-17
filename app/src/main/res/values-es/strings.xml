@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ranas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="audio">Audio</string>
+    <string name="music">Música</string>
+    <string name="win">GANAR</string>
+    <string name="lose">PERDER</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">¡Bienvenido a nuestra aplicación!\n Puedes elegir uno de los tres juegos</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Debes hacer clic rápidamente en el número que corresponde a la cantidad de sapos en la pantalla.</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Necesitas encontrar todos los sapos verdes en un tiempo determinado.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Necesitas comerte todas las moscas de la pantalla.</string>
+</resources>

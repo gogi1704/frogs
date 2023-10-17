@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">rane</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="audio">Audio</string>
+    <string name="music">Musica</string>
+    <string name="win">VINCITA</string>
+    <string name="lose">PERDERE</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Benvenuto nella nostra applicazione!\n Puoi scegliere uno dei tre giochi</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Devi fare clic rapidamente sul numero che corrisponde al numero di rospi sullo schermo</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Devi trovare tutti i rospi verdi entro un certo tempo.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Devi mangiare tutte le mosche sullo schermo</string>
+</resources>

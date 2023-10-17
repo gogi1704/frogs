@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frösche</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="audio">Audio</string>
+    <string name="music">Musik</string>
+    <string name="win">GEWINNEN</string>
+    <string name="lose">VERLIEREN</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Willkommen bei unserer Bewerbung!\n Sie können eines von drei Spielen auswählen</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Sie müssen schnell auf die Zahl klicken, die der Anzahl der Kröten auf dem Bildschirm entspricht</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Sie müssen innerhalb einer bestimmten Zeit alle Wechselkröten finden.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Sie müssen alle Fliegen auf dem Bildschirm essen</string>
+</resources>

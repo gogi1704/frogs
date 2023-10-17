@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuFragment">
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.frogs.ui.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+        <action
+            android:id="@+id/action_menuFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_chooseGameFragment"
+            app:destination="@id/chooseGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameBugsFragment"
+        android:name="com.frogs.ui.GameBugsFragment"
+        android:label="fragment_game_bugs"
+        tools:layout="@layout/fragment_game_bugs" />
+    <fragment
+        android:id="@+id/gameCountFrogsFragment"
+        android:name="com.frogs.ui.GameCountFrogsFragment"
+        android:label="fragment_game_count_frogs"
+        tools:layout="@layout/fragment_game_count_frogs" />
+    <fragment
+        android:id="@+id/gameFrogsFragment"
+        android:name="com.frogs.ui.GameFrogsFragment"
+        android:label="fragment_game_frogs"
+        tools:layout="@layout/fragment_game_frogs" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.frogs.ui.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/chooseGameFragment"
+        android:name="com.frogs.ui.ChooseGameFragment"
+        android:label="fragment_choose_game"
+        tools:layout="@layout/fragment_choose_game" >
+        <action
+            android:id="@+id/action_chooseGameFragment_to_gameBugsFragment"
+            app:destination="@id/gameBugsFragment" />
+        <action
+            android:id="@+id/action_chooseGameFragment_to_gameCountFrogsFragment"
+            app:destination="@id/gameCountFrogsFragment" />
+        <action
+            android:id="@+id/action_chooseGameFragment_to_gameFrogsFragment"
+            app:destination="@id/gameFrogsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/onBoardFragment"
+        android:name="com.frogs.ui.OnBoardFragment"
+        android:label="fragment_on_board"
+        tools:layout="@layout/fragment_on_board" >
+        <action
+            android:id="@+id/action_onBoardFragment_to_menuFragment"
+            app:destination="@id/menuFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">žáby</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ahoj prázdný fragment</string>
+    <string name="audio">Zvuk</string>
+    <string name="music">Hudba</string>
+    <string name="win">VYHRÁT</string>
+    <string name="lose">PROHRÁT</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Vítejte v naší aplikaci!\n Můžete si vybrat jednu ze tří her</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Musíte rychle kliknout na číslo, které odpovídá počtu ropuch na obrazovce</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Musíte najít všechny zelené ropuchy v určitém čase.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Musíte sníst všechny mouchy na obrazovce</string>
+</resources>

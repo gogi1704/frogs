@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kurbağalar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="audio">Ses</string>
+    <string name="music">Müzik</string>
+    <string name="win">KAZANÇ</string>
+    <string name="lose">KAYBETMEK</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Uygulamamıza hoş geldiniz!\n Üç oyundan birini seçebilirsiniz</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Ekrandaki kurbağa sayısına karşılık gelen sayıya hızlıca tıklamanız gerekiyor</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Belirli bir süre içinde tüm yeşil kurbağaları bulmanız gerekiyor.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Ekrandaki tüm sinekleri yemelisin</string>
+</resources>

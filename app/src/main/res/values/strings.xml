@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">frogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="audio">Audio</string>
+    <string name="music">Music</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Welcome to our application!\n You can choose one of three games</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">You need to quickly click on the number that corresponds to the number of toads on the screen</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">You need to find all the green toads within a certain time.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">You need to eat all the flies on the screen</string>
+    <string name="start">START</string>
+</resources>

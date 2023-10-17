@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sapos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="audio">Áudio</string>
+    <string name="music">Música</string>
+    <string name="win">GANHAR</string>
+    <string name="lose">PERDER</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games">Bem-vindo ao nosso aplicativo!\n Você pode escolher um dos três jogos</string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Você precisa clicar rapidamente no número que corresponde ao número de sapos na tela</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Você precisa encontrar todos os sapos verdes dentro de um determinado tempo.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Você precisa comer todas as moscas na tela</string>
+</resources>

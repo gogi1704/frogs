@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">grenouilles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="audio">l\'audio</string>
+    <string name="music">Musique</string>
+    <string name="win">GAGNER</string>
+    <string name="lose">PERDRE</string>
+    <string name="welcome_to_our_application_n_you_can_choose_one_of_three_games"><![CDATA[Bienvenue sur notre application !\n Vous pouvez choisir l\'un des trois jeux]]></string>
+    <string name="you_need_to_quickly_click_on_the_number_that_corresponds_to_the_number_of_toads_on_the_screen">Vous devez cliquer rapidement sur le numéro qui correspond au nombre de crapauds à l\'écran</string>
+    <string name="you_need_to_find_all_the_green_toads_within_a_certain_time">Vous devez trouver tous les crapauds verts dans un certain temps.</string>
+    <string name="you_need_to_eat_all_the_flies_on_the_screen">Vous devez manger toutes les mouches sur l\'écran</string>
+</resources>
